@@ -2,7 +2,6 @@ from bot import *
 
 
 def main():
-    drop_tables()
     start_bot()
 
 
